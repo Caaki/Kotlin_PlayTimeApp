@@ -1,0 +1,12 @@
+package com.example.cs330_oktobar2023v2.data.constants
+
+
+
+const val OUTDOOR = "Outdoor play is any type of play that happens outdoors. It can be structured or unstructured and includes playing with nature, playing games, being physically active, and playing with friends."
+const val TABLET = "A tablet computer, commonly shortened to tablet, is a mobile device, typically with a mobile operating system and touchscreen display processing circuitry, and a rechargeable battery in a single, thin and flat package."
+const val CRAYON="A crayon is a stick of pigmented wax used for writing or drawing. A crayon made of pigment with a dry binder is a pastel; when made of oiled chalk, it is called an oil pastel. A grease pencil or Chinese marker is made of coloured hardened grease."
+const val DOLLS = "A doll is a model of a typically humanoid character, often used as a toy. Dolls have traditionally been used in magic and religious rituals throughout the world, and traditional dolls made of materials such as clay and wood are found in the Americas, Asia, Africa and Europe."
+const val CARS="A toy car is a miniature representation of an automobile. Other miniature motor vehicles, such as trucks, buses, or even ATVs, etc. are often included in this general category. Because many miniature vehicles were originally aimed at children as playthings, there is no precise difference between a model car and a toy car, yet the word 'model' implies either assembly required or the accurate rendering of an actual vehicle at a smaller scale."
+const val LEGO = "Lego is a line of plastic construction toys that are manufactured by The Lego Group, a privately held company based in Billund, Denmark. The company's flagship product, Lego, consists of variously coloured interlocking plastic bricks accompanying an array of gears, figurines called minifigures, and various other parts. Lego pieces can be assembled and connected in many ways to construct objects including vehicles, buildings, and working robots. Anything constructed can be taken apart again, and the pieces reused to make new things."
+const val PUZZLE = "A jigsaw puzzle is a tiling puzzle that requires the assembly of often oddly shaped interlocking and mosaiced pieces. Typically, each individual piece has a portion of a picture; when assembled, the jigsaw puzzle produces a complete picture. In some cases, more advanced types have appeared on the market, such as spherical jigsaws and puzzles showing optical illusions."
+const val OTHER = "Other"

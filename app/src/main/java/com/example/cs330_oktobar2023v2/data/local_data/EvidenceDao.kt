@@ -1,5 +1,6 @@
 package com.example.cs330_oktobar2023v2.data.local_data
 
+
 import androidx.room.Dao
 import androidx.room.Query
 import androidx.room.Upsert
