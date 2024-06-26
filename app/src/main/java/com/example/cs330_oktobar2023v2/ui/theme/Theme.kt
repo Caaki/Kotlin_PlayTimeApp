@@ -1,4 +1,4 @@
-package com.example.compose
+package com.example.cs330_oktobar2023v2.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
@@ -73,7 +73,7 @@ private val DarkColors = darkColorScheme(
 )
 
 @Composable
-fun AppTheme(
+fun CS330Oktobar2023V2(
   useDarkTheme: Boolean = isSystemInDarkTheme(),
   content: @Composable() () -> Unit
 ) {
